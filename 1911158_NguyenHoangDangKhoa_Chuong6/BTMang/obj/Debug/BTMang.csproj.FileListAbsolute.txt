@@ -1,0 +1,15 @@
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.csprojResolveAssemblyReference.cache
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.pdb
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.exe.config
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.exe
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\obj\Debug\BTMang.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\BTMang\bin\Debug\BTMang.pdb

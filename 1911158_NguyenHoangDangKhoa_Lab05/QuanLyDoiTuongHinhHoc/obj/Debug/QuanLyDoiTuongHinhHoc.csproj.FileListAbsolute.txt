@@ -1,0 +1,15 @@
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.exe.config
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.exe
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.pdb
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.csprojResolveAssemblyReference.cache
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.exe
+D:\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.pdb
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.exe.config
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.exe
+H:\CTK43 Hoc Ky III\C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\bin\Debug\QuanLyDoiTuongHinhHoc.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Lab05\QuanLyDoiTuongHinhHoc\obj\Debug\QuanLyDoiTuongHinhHoc.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\bin\Debug\Bai9.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\obj\Debug\Bai9.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\bin\Debug\Bai9.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\bin\Debug\Bai9.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\obj\Debug\Bai9.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai9\obj\Debug\Bai9.pdb

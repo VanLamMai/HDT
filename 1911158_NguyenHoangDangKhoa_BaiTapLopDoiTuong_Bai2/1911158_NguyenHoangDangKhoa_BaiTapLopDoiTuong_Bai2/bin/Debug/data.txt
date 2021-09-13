@@ -1,0 +1,14 @@
+001,Nguyen Hoang Dang Khoa,Nam,CTK43,8.5
+002,Nguyen Van An,Nam,CTK43,9.25
+003,Tran Dinh Toan,Nam,CTK43,9.2
+004,Nguyen Tran Thu Trang,Nu,CTK42,4.5
+005,Tran Thi Minh Nguyet,Nu,CTK40,6.85
+006,Dinh Quang Trung,Nam,CTK43,9.25
+007,Nguyen Thi La,Nu,CTK41,5.32
+008,Nguyen Tran Trung Nguyen,Nam,CTK42,8.4
+009,Nguyen Phuong Nguyen,Nu,CTK43,6.4
+010,Nguyen Dinh Nam,Nam,CTK41,8.1
+011,Ngo Tuong Vy,Nu,CTK42,9.25
+012,Ngo Thi Nhu,Nu,CTK44,7.5
+013,Le Thi Nhung,Nu,CTK42,9.25
+014,Tran Quang Bao,Nam,CTK42,8.0

@@ -1,0 +1,11 @@
+S;Nhung Chu Vit Con;25;Kim Dong
+TC;Doi Song Tuoi Tre;46;Song Moi;8
+S;Hat Giong Tam Hon;120;Tong Hop HCM
+B;75;ANQP
+TC;Doi Song Hien Nay;75;Tong Hop HCM;12
+B;15;The Thao
+S;Atlas Can't Shrug;115;Jon Smith
+S;Noi Khong Voi Tat Ca;105;Kim Hoang
+TC;Ngoi Nha Hanh Phuc 2;80;Kim Dong;12
+S;Ngoi Nha Nho;49;Song Moi
+TC;Ngay Moi;26;Lan Phuong;9

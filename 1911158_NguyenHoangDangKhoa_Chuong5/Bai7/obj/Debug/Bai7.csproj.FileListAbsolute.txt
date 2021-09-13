@@ -1,0 +1,5 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai7\bin\Debug\Bai7.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai7\bin\Debug\Bai7.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai7\bin\Debug\Bai7.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai7\obj\Debug\Bai7.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai7\obj\Debug\Bai7.pdb

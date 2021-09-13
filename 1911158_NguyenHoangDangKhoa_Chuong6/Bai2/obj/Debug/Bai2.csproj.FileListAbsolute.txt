@@ -1,0 +1,12 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\bin\Debug\Bai2.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache

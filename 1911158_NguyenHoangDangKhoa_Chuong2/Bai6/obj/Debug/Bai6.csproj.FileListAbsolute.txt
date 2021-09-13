@@ -1,0 +1,5 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai6\bin\Debug\Bai6.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai6\bin\Debug\Bai6.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai6\bin\Debug\Bai6.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai6\obj\Debug\Bai6.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai6\obj\Debug\Bai6.pdb

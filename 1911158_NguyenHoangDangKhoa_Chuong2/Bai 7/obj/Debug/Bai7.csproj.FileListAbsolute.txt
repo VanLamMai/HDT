@@ -1,0 +1,9 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\bin\Debug\Bai 7.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\bin\Debug\Bai 7.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\bin\Debug\Bai 7.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\obj\Debug\Bai 7.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\obj\Debug\Bai 7.pdb
+D:\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\bin\Debug\Bai 7.exe.config
+D:\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\obj\Debug\Bai 7.exe
+D:\1911158_NguyenHoangDangKhoa_Chuong2\Bai 7\obj\Debug\Bai 7.pdb
