@@ -1,0 +1,8 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai12\bin\Debug\Bai12.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai12\bin\Debug\Bai12.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai12\bin\Debug\Bai12.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai12\obj\Debug\Bai12.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai12\obj\Debug\Bai12.pdb
+F:\Bai12\bin\Debug\Bai12.exe.config
+F:\Bai12\obj\Debug\Bai12.exe
+F:\Bai12\obj\Debug\Bai12.pdb

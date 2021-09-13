@@ -1,0 +1,5 @@
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Chan\bin\Debug\DeThi_Chan.exe.config
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Chan\bin\Debug\DeThi_Chan.exe
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Chan\bin\Debug\DeThi_Chan.pdb
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Chan\obj\Debug\DeThi_Chan.exe
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Chan\obj\Debug\DeThi_Chan.pdb

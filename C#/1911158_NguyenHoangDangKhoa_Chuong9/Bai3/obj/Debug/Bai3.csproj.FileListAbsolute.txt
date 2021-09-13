@@ -1,0 +1,6 @@
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\bin\Debug\Bai3.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\bin\Debug\Bai3.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\bin\Debug\Bai3.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\obj\Debug\Bai3.csprojResolveAssemblyReference.cache
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\obj\Debug\Bai3.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai3\obj\Debug\Bai3.pdb

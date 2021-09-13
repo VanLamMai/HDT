@@ -1,0 +1,8 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai14\bin\Debug\Bai14.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai14\bin\Debug\Bai14.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai14\bin\Debug\Bai14.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai14\obj\Debug\Bai14.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai14\obj\Debug\Bai14.pdb
+F:\Bai14\bin\Debug\Bai14.exe.config
+F:\Bai14\obj\Debug\Bai14.exe
+F:\Bai14\obj\Debug\Bai14.pdb

@@ -1,0 +1,8 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai11\bin\Debug\Bai11.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai11\bin\Debug\Bai11.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai11\bin\Debug\Bai11.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai11\obj\Debug\Bai11.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai11\obj\Debug\Bai11.pdb
+F:\Bai11\bin\Debug\Bai11.exe.config
+F:\Bai11\obj\Debug\Bai11.exe
+F:\Bai11\obj\Debug\Bai11.pdb

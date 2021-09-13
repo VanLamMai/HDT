@@ -1,0 +1,5 @@
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai15\bin\Debug\Bai15.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai15\bin\Debug\Bai15.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai15\bin\Debug\Bai15.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai15\obj\Debug\Bai15.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai15\obj\Debug\Bai15.pdb

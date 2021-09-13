@@ -1,0 +1,12 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\bin\Debug\Bai10.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache

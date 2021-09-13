@@ -1,0 +1,6 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\bin\Debug\Bai5.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\bin\Debug\Bai5.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\bin\Debug\Bai5.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\obj\Debug\Bai5.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\obj\Debug\Bai5.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong9\Bai5\obj\Debug\Bai5.pdb

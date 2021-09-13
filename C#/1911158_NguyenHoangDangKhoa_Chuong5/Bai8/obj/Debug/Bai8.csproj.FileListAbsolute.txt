@@ -1,0 +1,5 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai8\bin\Debug\Bai8.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai8\bin\Debug\Bai8.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai8\bin\Debug\Bai8.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai8\obj\Debug\Bai8.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong5\Bai8\obj\Debug\Bai8.pdb

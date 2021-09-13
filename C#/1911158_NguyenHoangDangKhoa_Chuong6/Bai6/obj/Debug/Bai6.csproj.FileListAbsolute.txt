@@ -1,0 +1,6 @@
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\bin\Debug\Bai6.exe.config
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\bin\Debug\Bai6.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\bin\Debug\Bai6.pdb
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\obj\Debug\Bai6.csprojResolveAssemblyReference.cache
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\obj\Debug\Bai6.exe
+D:\C#\1911158_NguyenHoangDangKhoa_Chuong6\Bai6\obj\Debug\Bai6.pdb

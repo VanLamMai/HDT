@@ -1,0 +1,12 @@
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\bin\Debug\Bai13.exe.config
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\bin\Debug\Bai13.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\bin\Debug\Bai13.pdb
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\obj\Debug\Bai13.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\obj\Debug\Bai13.exe
+D:\Data\Visual Studio C#\1911158_NguyenHoangDangKhoa_Chuong2\Bai13\obj\Debug\Bai13.pdb
+F:\Bai13\bin\Debug\Bai13.exe.config
+F:\Bai13\obj\Debug\Bai13.exe
+F:\Bai13\obj\Debug\Bai13.pdb
+F:\Bai13\bin\Debug\Bai13.exe
+F:\Bai13\bin\Debug\Bai13.pdb
+F:\Bai13\obj\Debug\Bai13.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+00123,Nguyen Van A,Lam Dong,Da Lat,1A Tran Le-Phuong 6
+00124,Tran Thi C,Lam Dong,Da Lat,1C Le Hong Phong-Phuong 5
+00130,Nguyen Van Lam,Khanh Hoa,Ninh Thuan,19 Ba Thang Hai-Phuong 5
+00125,Nguyen Van D,Lam Dong,Da Lat,23 Thien My-Phuong 1
+00126,Tran Thi E,Lam Dong,Da Lat,30 Nam Ky-Phuong 5
+00129,Tran Thi My,Khanh Hoa,Nha Trang,34 Phang Dinh Phung-Phuong 9
+00127,Nguyen Van F,Lam Dong,Da Lat,70 Hai Ba Trung-Phuong 6
+00128,Nguyen Van G,Lam Dong,Da Lat,23 Pham Ngu Lao-Phuong 2
+00120,Tran Thi B,Khanh Hoa,Nha Trang,19 Phan Dinh Phung-Phuong 9

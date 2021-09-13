@@ -1,0 +1,6 @@
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\bin\Debug\DeThi_Le.exe.config
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\bin\Debug\DeThi_Le.exe
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\bin\Debug\DeThi_Le.pdb
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\obj\Debug\DeThi_Le.csprojResolveAssemblyReference.cache
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\obj\Debug\DeThi_Le.exe
+E:\C#\GiaiDeThiGiuaKy_LopDoiTuong\DeThi_Le\obj\Debug\DeThi_Le.pdb

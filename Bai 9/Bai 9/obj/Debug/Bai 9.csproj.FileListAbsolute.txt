@@ -1,0 +1,6 @@
+D:\Bai 9\Bai 9\bin\Debug\Bai 9.exe
+D:\Bai 9\Bai 9\bin\Debug\Bai 9.pdb
+D:\Bai 9\Bai 9\obj\Debug\Bai 9.csprojAssemblyReference.cache
+D:\Bai 9\Bai 9\obj\Debug\Bai 9.csproj.CoreCompileInputs.cache
+D:\Bai 9\Bai 9\obj\Debug\Bai 9.exe
+D:\Bai 9\Bai 9\obj\Debug\Bai 9.pdb
